@@ -14,7 +14,7 @@ The text of the document is located in [index.md](https://github.com/ldeo-glacio
 
 All feedback and edits are welcome. To comment or suggest changes you can create an GitHub issue or you can make specific changes to [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) and submit them as a pull request. 
 
-Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordinateion Office ([betsys@nsidc.org]()).
+Alternatively contact the ITGC Science and Coordinateion Office at [sco@thwaitesglacier.org](sco@thwaitesglacier.org)
 
 Please cite this document as follows: 
 
