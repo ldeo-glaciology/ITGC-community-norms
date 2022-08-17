@@ -2,7 +2,9 @@
 # Community Values and Norms of Behavior
 Date: July 22, 2020
 
-Please provide feedback and comments to the Science Coordination Office at sco@thwaitesglacier.org
+Please provide feedback and comments to the Science Coordination Office at [sco@thwaitesglacier.org](sco@thwaitesglacier.org).
+
+The Science Coordination Office will consult with the ITGC Inclusion, Diversity, Equity and Accessibility (IDEA) Committee about any proposed changes to this statement.
 
 ## Team Objectives:
 - Produce high quality peer-reviewed science
@@ -10,7 +12,7 @@ Please provide feedback and comments to the Science Coordination Office at sco@t
 - Mentor students, post docs, and other early career scientists toward career success
 - Communicate the issues and the results to the public
 - Engage the public in the process of science
-- Foster improved collaboration between UK and US research communities
+- Foster improved collaboration between UK, US and international research communities
 - Help build a sustainably inclusive and diverse community of scientists.
 
 ## Community Norms of Behavior
