@@ -10,9 +10,9 @@ The document is hosted publicly here: [https://ldeo-glaciology.github.io/ITGC-co
 
 This is intended to be an ongoing collaborative effort across the polar science community.
 
-The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/c06554e24ed4fd7ef165291e744e3d79b55fecfd/index.md). 
+The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md). 
 
-All feedback and edits are welcome. To comment or suggest changes you can create an GitHub issue or you can make specific changes to [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/c06554e24ed4fd7ef165291e744e3d79b55fecfd/index.md) and submit them as a pull request. 
+All feedback and edits are welcome. To comment or suggest changes you can create an GitHub issue or you can make specific changes to [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) and submit them as a pull request. 
 
 Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordinateion Office ([betsys@nsidc.org]()).
 
