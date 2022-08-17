@@ -1,1 +1,1 @@
-# International Thwaites Glacier Collaboration field and ship best practices
+# International Thwaites Glacier Collaboration community norms and values
