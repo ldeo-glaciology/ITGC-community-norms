@@ -1,5 +1,3 @@
-## test
-
 You can also provide feedback and comments to the Science Coordination Office at [sco@thwaitesglacier.org](sco@thwaitesglacier.org).
 
 The Science Coordination Office will consult with the ITGC Inclusion, Diversity, Equity and Accessibility (IDEA) Committee about any proposed changes to this statement.
